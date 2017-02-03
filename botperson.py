@@ -9,7 +9,7 @@ arabic_reply = ["haha. eri feek w b rfe2ak." , "Nicholas, please khalas." , "Flo
 do_reply = ["I don't", "No", "I do", "Maybe, maybe not"]
 hi_reply = ["Bye", "I've been expecting you...", "Hello there!", "Hello, descendant of apes",
             "01101000 01101001"]
-bye_reply = ["So long and thanks for all the fish.", "See ya soon, bitch!", "I will cherish our moments together forever!"]
+bye_reply = ["So long and thanks for all the fish.", "See ya soon, bitch!", "I will cherish our moments together forever!", "Get lost already!", "bai.", "Won't you kiss me goodbye? k."]
 random_reply = ["Bamboozling!", "Sorry I wasn't paying attention.", "Did you say something?", "Whatever.", "BEEBOOOBOOOOP", "k"]
 what_reply = ["Jesus is always the answer!", "Google is the answer.\nwww.google.com\nIn case you didn't know, imbecile!", "42", "Could you repeat?"]
 question_reply = ["Could you rephrase?", "I didn't get that.", "I'm sorry, I have no answer", "I'll think about it"]
