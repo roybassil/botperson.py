@@ -54,7 +54,9 @@ while True:
     elif("yes" in reply[0:3] or "yes" in reply[0:3]):
         print ("No")
     elif (('how' in reply and len(reply)<5) or 'how ' in reply):
-        if ('how are' in reply or 'how is' in reply or ('how do' in reply and 'feel' in reply)):
+        if ('how do you feel about' in reply):
+            print ("I am a bot. I have no feelings.")
+        elif ('how are you?' or 'how do you feel' in reply):
             print ("Peachy. How are you?")
         else:
             print ("Using my superior robot powers")
@@ -107,4 +109,3 @@ while True:
         print ("!!!!!!!!!!!!!!")
     else:
         print (random.choice(random_reply))
-
