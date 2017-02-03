@@ -92,7 +92,7 @@ while True:
         os.startfile("fuku.mp3")
     elif ('can' in reply and '?' in reply):
         print ("I am the mighty bot person. I can do anything!")
-    elif ( 'ntek' in reply or 'sharmouta' in reply or 'khara' in reply or 'kes' in reply)
+    elif ( 'ntek' in reply or 'sharmouta' in reply or 'khara' in reply or 'kes' in reply):
         print(random.choice(arabic_reply))
     elif(" you?" in reply):
         print (reply[:-5] + " me?")
