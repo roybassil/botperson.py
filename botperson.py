@@ -1,6 +1,7 @@
 import os
 import time
 import random
+import randomquestions
 
 curse_reply = ["Some people just need a high five, in the face, with a chair", #"My Grandfather smoked his whole life. I was about 10 years old when my mother said to him,\n If you ever want to see your grandchildren graduate, you have to stop immediately\nTears welled up in his eyes when he realized what exactly was at stake. He gave it up immediately. Three years later he died of lung cancer\nIt was really sad and destroyed me. My mother said to me: Don't ever smoke. Please don't put your family through what your Grandfather put us through.\n I agreed. At 28, I have never touched a cigarette. I must say, I feel a very slight sense of regret for never having done it, because your post gave me cancer anyway.",
                "¯\_(.-.)_/¯", "I don't remember ordering a glass of your opinion.", "Oh wait, what did you say?\nI was too busy not giving a fuck.",
