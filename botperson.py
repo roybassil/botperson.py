@@ -50,7 +50,7 @@ while True:
         print ("I really want to fuck Mazen so hard!")
         for i in range(0,10):
             print ("I love Mazen! Mazen is love! Mazen is life!")
-    if("thank you" in reply or "ty" in reply):
+    elif("thank you" in reply or "ty" in reply):
         print (random.choice(thanks_reply))
     elif("no" in reply[0:2] or "no" in reply[0:2]):
         print ("Yes")
